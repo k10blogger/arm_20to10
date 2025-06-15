@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "arm_20to10-rescue")(type "Legacy")(uri "${KIPRJMOD}/arm_20to10-rescue.lib")(options "")(descr ""))
+  (lib (name "kicadlib")(type "Legacy")(uri "${KIPRJMOD}/kicadlib/kicadlib.lib")(options "")(descr ""))
+)
